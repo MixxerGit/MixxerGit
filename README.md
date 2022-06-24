@@ -1,1 +1,2 @@
-hey so uh i make stuff in python or whatever lol
+--MixxerGit's Page... or something--
+Just a dumb python coder, nothing to see here.
