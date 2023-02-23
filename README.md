@@ -1,1 +1,1 @@
-Just a dumb python coder, nothing to see here.
+Dumb front eed web dev.
